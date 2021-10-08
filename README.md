@@ -7,3 +7,6 @@
 #### resource---->https://netron.app/
 # roi
 #### resource---->https://www.twblogs.net/a/5ca414aabd9eee59d332ac47
+# html template
+#### 100 template  resource---->https://github.com/toidicode/template
+#### resource---->https://github.com/local-host-8080/demo-html-css
