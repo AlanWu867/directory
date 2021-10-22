@@ -14,3 +14,5 @@
 #### resource---->https://github.com/local-host-8080/demo-html-css
 # C# WinForm 改變無邊框尺寸
 #### resource---->[網址太長改連結](https://blog.csdn.net/e421083458/article/details/41480259?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-13.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-13.no_search_link)
+# move database from mssql to mysql
+#### mssql to mssql---->https://www.youtube.com/watch?v=XLzV_gagkZc
