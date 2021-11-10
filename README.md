@@ -21,3 +21,5 @@
 #### resource---->https://github.com/Tejas-Nanaware/GAN-Anime-Characters
 # AI Art
 #### resource---->https://github.com/Adi-iitd/AI-Art
+# text2art
+#### resource---->https://github.com/mfrashad/text2art
