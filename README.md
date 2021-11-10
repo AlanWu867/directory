@@ -26,3 +26,4 @@
 # Git
 #### resource---->https://gitbook.tw/chapters/github/push-to-github.html
 #### resource---->[網址太長改連結](https://tynadesigner.wordpress.com/2020/03/20/%E7%89%88%E6%8E%A7git%E6%8C%87%E4%BB%A4%E8%88%87bitbucket%E6%93%8D%E4%BD%9C_w3hexschool%E9%BC%A0%E5%B9%B4%E5%85%A8%E9%A6%AC%E9%90%B5%E4%BA%BA%E8%B3%BDweek03/)
+#### push分支，error: src refspec name does not match any，先git branch name就可以繼續
