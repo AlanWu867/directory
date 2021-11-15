@@ -15,7 +15,8 @@
 # C# WinForm 改變無邊框尺寸
 #### resource---->[網址太長改連結](https://blog.csdn.net/e421083458/article/details/41480259?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-13.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-13.no_search_link)
 # move database from mssql to mysql
-#### mssql to mssql---->https://www.youtube.com/watch?v=XLzV_gagkZc
+#### mssql to mssql(方法1)---->https://www.youtube.com/watch?v=XLzV_gagkZc
+#### mssql to mssql(方法2)---->https://ithelp.ithome.com.tw/questions/10141732
 #### mssql to mysql---->https://www.youtube.com/watch?v=IU2wOOjX2ys&t=831s
 # GAN-Anime-Characters
 #### resource---->https://github.com/Tejas-Nanaware/GAN-Anime-Characters
