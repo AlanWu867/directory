@@ -33,11 +33,11 @@ git add README.md
 git config --global user.name "您的姓名"
 git config --global user.email "您的Email"
 git add .
-git commit -m "LumensDeploymentTool2"
-git remote add origin http://Volx@bitbucket.lumens.tw:7990/scm/sdt/deployment-tools.git
-git branch lumens2.0
-git push -u origin lumens2.0
+git commit -m "註解"
+git remote add origin http://test@bitbucket.lumens.tw:7990/scm/sdt/deployment-tools.git
+git branch branchname
+git push -u origin branchname
 ##############################
-git push -f origin lumens2.0
+git push -f origin branchname
 ```
 #### push分支，error: src refspec name does not match any，先git branch name就可以解決
