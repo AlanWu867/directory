@@ -34,7 +34,7 @@ git config --global user.name "您的姓名"
 git config --global user.email "您的Email"
 git add .
 git commit -m "註解"
-git remote add origin http://test@bitbucket.lumens.tw:7990/scm/sdt/deployment-tools.git
+git remote add origin git位置
 git branch branchname
 git push -u origin branchname
 ##############################
