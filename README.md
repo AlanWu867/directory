@@ -41,3 +41,5 @@ git push -u origin branchname
 git push -f origin branchname
 ```
 #### push分支，error: src refspec name does not match any，先git branch name就可以解決
+# Parameters 參數使用超過 2100
+#### resource---->https://ishellworld.blogspot.com/2017/12/parameters.html?m=1
