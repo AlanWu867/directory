@@ -43,3 +43,5 @@ git push -f origin branchname
 #### push分支，error: src refspec name does not match any，先git branch name就可以解決
 # Parameters 參數使用超過 2100
 #### resource---->https://ishellworld.blogspot.com/2017/12/parameters.html?m=1
+# 要求已經中止: 無法建立 SSL/TLS 的安全通道。
+#### resource---->[網址太長改連結](http://www.jysblog.com/coding/c-%E7%84%A1%E6%B3%95%E5%BB%BA%E7%AB%8B-ssl-tls-%E7%9A%84%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%93%E3%80%82%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95/)
