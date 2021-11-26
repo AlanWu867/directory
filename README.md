@@ -48,4 +48,4 @@ git push -f origin branchname
 # Multiple Object Tracking
 #### yolov5 resource---->https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
 #js讀取GET
-#### yolov5 resourcehttps://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/264390/
+#### resource---->https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/264390/
