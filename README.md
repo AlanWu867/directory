@@ -49,3 +49,5 @@ git push -f origin branchname
 #### yolov5 resource---->https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
 # js讀取GET
 #### resource---->https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/264390/
+# LSTM 字母順序
+#### resource---->https://github.com/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.c-lstm-learn-alphabetic-seq.ipynb
